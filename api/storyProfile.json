@@ -1,0 +1,33 @@
+[
+    {
+      "image": "./image/peopleProfile1.webp",
+      "name": "Ferdausi Rabbi",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, facere."
+    },
+    {
+      "image": "./image/peopleProfile2.webp",
+      "name": "John Doe",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, facere."
+    },
+    {
+      "image": "./image/peopleProfile3.webp",
+      "name": "Jane Smith",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, facere."
+    },
+    {
+      "image": "./image/peopleProfile4.webp",
+      "name": "Emily Johnson",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, facere."
+    },
+    {
+      "image": "./image/peopleProfile5.webp",
+      "name": "Michael Brown",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, facere."
+    },
+    {
+      "image": "./image/peopleProfile6.webp",
+      "name": "Sarah Davis",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, facere."
+    }
+  ]
+  
